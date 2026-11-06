@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Drusssantosnkisogo-droi 👋
 
-<!--
-**drusssantosnkisogo-droi/Drusssantosnkisogo-droi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de 2.º de Desarrollo de Aplicaciones Web (DAW).
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo web, aprender nuevas tecnologías y crear proyectos digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente estoy ampliando mis conocimientos y preparándome para comenzar mi carrera profesional.
+
+## 🛠️ Tecnologías que conozco
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,js,bootstrap,java,php,mysql" alt="Mis tecnologías">
+</p>
+
+## 🌐 Portfolio
+
+Próximamente disponible.
+
+## 📫 Contacto
+
+Próximamente añadiré mis redes profesionales.
